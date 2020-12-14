@@ -1,0 +1,10 @@
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\bin\Debug\TPAIHM.exe.config
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\bin\Debug\TPAIHM.exe
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\bin\Debug\TPAIHM.pdb
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.View.resources
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.Properties.Resources.resources
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.csproj.GenerateResource.cache
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.exe
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.pdb
+C:\xampp\htdocs\Lab\C#\ENSISA\AIHM\TP\TPAIHM\TPAIHM\obj\Debug\TPAIHM.CurveView.resources
